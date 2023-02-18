@@ -24,3 +24,10 @@ C:\Users\MINEDUCYT\Documents\GitHub\EjercicioDeGuia\EjercicioDeGuia\obj\Debug\Ej
 C:\Users\MINEDUCYT\Documents\GitHub\EjercicioDeGuia\EjercicioDeGuia\obj\Debug\EjercicioDeGuia.csproj.CoreCompileInputs.cache
 C:\Users\MINEDUCYT\Documents\GitHub\EjercicioDeGuia\EjercicioDeGuia\obj\Debug\EjercicioDeGuia.exe
 C:\Users\MINEDUCYT\Documents\GitHub\EjercicioDeGuia\EjercicioDeGuia\obj\Debug\EjercicioDeGuia.pdb
+C:\Users\MINEDUCYT\Documents\GitHub\guiapractica2\EjercicioDeGuia\EjercicioDeGuia\bin\Debug\EjercicioDeGuia.exe.config
+C:\Users\MINEDUCYT\Documents\GitHub\guiapractica2\EjercicioDeGuia\EjercicioDeGuia\bin\Debug\EjercicioDeGuia.exe
+C:\Users\MINEDUCYT\Documents\GitHub\guiapractica2\EjercicioDeGuia\EjercicioDeGuia\bin\Debug\EjercicioDeGuia.pdb
+C:\Users\MINEDUCYT\Documents\GitHub\guiapractica2\EjercicioDeGuia\EjercicioDeGuia\obj\Debug\EjercicioDeGuia.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Documents\GitHub\guiapractica2\EjercicioDeGuia\EjercicioDeGuia\obj\Debug\EjercicioDeGuia.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Documents\GitHub\guiapractica2\EjercicioDeGuia\EjercicioDeGuia\obj\Debug\EjercicioDeGuia.exe
+C:\Users\MINEDUCYT\Documents\GitHub\guiapractica2\EjercicioDeGuia\EjercicioDeGuia\obj\Debug\EjercicioDeGuia.pdb
